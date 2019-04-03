@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "\\EVS_CmdParser.h,\\EVS_capasitor.cpp,\\EVS_filter.cpp,\\EVS_filter.h,\\EVS_motor.cpp,\\EVS_motor.h,\\EVS_privod.cpp,\\EVS_privod.h,\\EVS_voltmeter.cpp,\\EVS_voltmeter.h,\\build\\preproc\\ctags_target_for_gcc_minus_e.cpp,\\build\\sketch\\EVS_CmdParser.cpp.cpp,\\build\\sketch\\EVS_CmdParser.h,\\build\\sketch\\EVS_capasitor.cpp,\\build\\sketch\\EVS_filter.cpp,\\build\\sketch\\EVS_filter.h,\\build\\sketch\\EVS_motor.cpp,\\build\\sketch\\EVS_motor.h,\\build\\sketch\\EVS_privod.cpp,\\build\\sketch\\EVS_privod.h,\\build\\sketch\\EVS_voltmeter.cpp,\\build\\sketch\\EVS_voltmeter.h",
+  "builtInLibrariesFolders": "C:\\Devel\\Arduino\\libraries",
+  "customBuildProperties": "build.path=c:\\Users\\jack\\Documents\\Arduino\\EVS_Capasitor\\build,build.warn_data_percentage=75,runtime.tools.avr-gcc.path=C:\\Devel\\Arduino\\hardware\\tools\\avr,runtime.tools.avr-gcc-5.4.0-atmel3.6.1-arduino2.path=C:\\Devel\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude.path=C:\\Devel\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude-6.3.0-arduino14.path=C:\\Devel\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=C:\\Devel\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA-1.2.1.path=C:\\Devel\\Arduino\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "C:\\Devel\\Arduino\\hardware,C:\\Users\\jack\\AppData\\Local\\Arduino15\\packages,C:\\Users\\jack\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\jack\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10807",
+  "sketchLocation": "c:\\Users\\jack\\Documents\\Arduino\\EVS_Capasitor\\EVS_CmdParser.cpp",
+  "toolsFolders": "C:\\Devel\\Arduino\\tools-builder,C:\\Devel\\Arduino\\hardware\\tools\\avr,C:\\Users\\jack\\AppData\\Local\\Arduino15\\packages"
+}
